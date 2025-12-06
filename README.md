@@ -42,3 +42,7 @@ Flask-RDS-User-Management-System/
 └── frontend/
     └── index.html
 
+```
+## 📌 Architecture Diagram
+![Architecture](architecture.png)
+
