@@ -44,5 +44,5 @@ Flask-RDS-User-Management-System/
 
 ```
 ## 📌 Architecture Diagram
-![Architecture](architecture.png)
+![Architecture](Architecture.png)
 
